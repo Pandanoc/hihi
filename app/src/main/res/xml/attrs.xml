@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="CustomRatingBar">
+        <attr name="starCount" format="integer"/>
+        <attr name="starSize" format="dimension"/>
+        <attr name="starSelectedColor" format="color"/>
+        <attr name="starUnselectedColor" format="color"/>
+    </declare-styleable>
+</resources>

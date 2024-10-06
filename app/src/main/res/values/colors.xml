@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorStarSelected">#FFD700</color> <!-- Màu vàng cho sao đã chọn -->
+    <color name="colorStarUnselected">#C0C0C0</color> <!-- Màu xám cho sao chưa chọn -->
+</resources>
